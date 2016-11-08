@@ -1,0 +1,23 @@
+<response>
+  <header>
+    <err_cd>0000</err_cd>
+    <err_msg></err_msg>
+    <random_id>f4b071f1-c181-40fe-b479-ec4033ddf740</random_id>
+  </header>
+  <body>
+    <cust_nm>SHAAFINEH BINTI SAIDALI</cust_nm>
+    <cust_ic>591006075407</cust_ic>
+    <last_login_dt>20110114042920</last_login_dt>
+    <last_login_day>Friday</last_login_day>
+    <tnc_flag>0</tnc_flag>
+    <is_staff>1</is_staff>
+    <phishing_validation_flag>F</phishing_validation_flag>
+    <challenge_qn_setup_flag>F</challenge_qn_setup_flag>
+    <special_modules></special_modules>
+    <is_easy>0</is_easy>
+    <yodlee_cross_sell>F</yodlee_cross_sell>
+    <pfm_indicator>T</pfm_indicator>
+    <session_timeout_period>10</session_timeout_period>
+    <cust_segment>P</cust_segment>
+  </body>
+</response>

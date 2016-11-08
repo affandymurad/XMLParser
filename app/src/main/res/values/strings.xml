@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">XMLParser</string>
+    <string name="parsed_data">Here is the parsed XML data&#8230;</string>
+</resources>
