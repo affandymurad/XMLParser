@@ -37,6 +37,8 @@ public class MainActivity extends AppCompatActivity {
             SAXParser sp = spf.newSAXParser();
             XMLReader xr = sp.getXMLReader();
 
+
+            ///xml parser
             OrderXMLHandler myXMLHandler = new OrderXMLHandler();
             xr.setContentHandler(myXMLHandler);
             InputSource inStream = new InputSource(is);
